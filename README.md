@@ -2,9 +2,9 @@
 # Digital Literacy Project
 
 ## 👤 Student Details
-- Name: Kushagra Mishra
-- Registration Number: (Your Reg No.)
-- Branch: B.Tech CSE
+- Name: Aryan Srivastava
+- Registration Number: 25BAI11020
+- Branch: B.Tech CSE AIML
 - Year: 1st Year
 
 ## 📘 Course Details
